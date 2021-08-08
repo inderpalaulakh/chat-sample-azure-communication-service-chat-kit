@@ -1,4 +1,4 @@
-# Android Sample Chat Application (Azure Communication Services Chat)
+# Android Sample Chat Application using Azure Communication Services and ChatKit
 
 This application is a project to integrate [Azure Communication Services Chat](https://docs.microsoft.com/en-us/azure/communication-services/quickstarts/chat/get-started?pivots=programming-language-android) with [ChatKit](https://github.com/stfalcon-studio/ChatKit).
 
