@@ -20,6 +20,6 @@ This application is a project to integrate [Azure Communication Services Chat](h
 
 ![Chat Join](./images/chatjoin.png)
 
-## Finally Chat 
-
 ![Chat](./images/chat.png)
+
+For more information visit: [Android Sample Chat Application using Azure Communication Services and ChatKit](https://inderpalaulakh.com/posts/azurechat/)
